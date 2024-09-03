@@ -47,7 +47,7 @@ const AddBookPage = () => {
 
   return (
     <div>
-      <h1>書籍の追加</h1>
+      <h1>書籍追加</h1>
       <form onSubmit={handleSubmit}>
         <label>
           タイトル:
