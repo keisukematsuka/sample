@@ -5,6 +5,7 @@ import BookDetailPage from "./pages/BookDetailPage";
 import AddBookPage from "./pages/AddBookPage";
 import EditBookPage from "./pages/EditBookPage";
 import DeleteBookPage from "./pages/DeleteBookPage";
+import "./assets/css/common.css";
 
 const App = () => {
   return (

@@ -1,0 +1,26 @@
+header {
+  background-color: #464fe5;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 350px;
+}
+
+.app_tittle {
+  color: azure;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav_item {
+  font-size: large;
+  color: azure;
+  text-decoration: none;
+}
+
+.nav_item:hover {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
